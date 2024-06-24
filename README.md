@@ -57,6 +57,8 @@ Response:
 ```
 ## 2. Read all submissions
 
+![Read](https://github.com/vedanshi0512/slidely-form-app-backend/blob/master/backend-read.jpeg)
+
 URL: /read
 
 Method: GET
